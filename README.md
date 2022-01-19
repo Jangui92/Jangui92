@@ -36,11 +36,6 @@ I am a Software Engineer with full-stack development experience and a background
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
 
-- 👋 Hi, I’m @Jangui92
-- 👀 I’m interested in singing, guitar & coding
-- 🌱 I’m currently learning javascript language to start my coding journey
-- 💞️ I’m looking to collaborate on various projects to build skill and learn
-- 📫 How to reach me janayanguiano@gmail.com
 
 <!---
 Jangui92/Jangui92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
