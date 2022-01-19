@@ -2,7 +2,6 @@
 
 I am a Software Engineer with full-stack development experience and a background in creative arts. Coding is what helped me pass my intro C.S. course. I was intrigued when I found out computers have a language. With my new skills, I am determined to implement creative direction and build phenomenal functional products with an awesome team.
 
-- 🏢 I'm currently making awesomeness as a **Web Developer Intern** at [Center Centre-UIE](https://www.uie.com/)
 - 📫 Get to know me or reach me at:<div ><br>
     <a href="https://www.linkedin.com/in/janay-anguiano-778717215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/Jangui92"><img src="https://img.shields.io/github/followers/sbassong?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
