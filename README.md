@@ -1,6 +1,6 @@
-<h1 align="center"> >> Hi, I'm Jae :ramen:  </h1>
+<h1 align="center">  Hi, I'm Jae :ramen:  </h1>
 
-I am a Software Engineer with full-stack development experience and a background in creative arts. Coding is what helped me pass my intro C.S. course. I was intrigued when I found out computers have a language. With my new skills, I am determined to implement creative direction and build phenomenal functional products with an awesome team.
+I am a Software Engineer with full-stack development experience and a background in creative arts :guitar: :art: :performing_arts:. Coding is what helped me pass my intro C.S. course :checkered_flag: . I was intrigued when I found out computers have a language :secret:. With my new skills, I am determined to implement creative direction and build phenomenal functional products with an awesome team :rocket:.
 
 - 📫 Get to know me or reach me at:<div ><br>
     <a href="https://www.linkedin.com/in/janay-anguiano-778717215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
