@@ -4,6 +4,7 @@ I am a Software Engineer with full-stack development experience and a background
 Coding is what helped me pass my intro C.S. course :checkered_flag: . 
 I was intrigued when I found out computers have a language :secret:. 
 With my new skills, I am determined to implement creative direction and build phenomenal functional products with an awesome team :rocket:.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangui92&show_icons=true&theme=radical)
 
 - 📫 Get to know me or reach me at:<div ><br>
     <a href="https://www.linkedin.com/in/janay-anguiano-778717215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
