@@ -11,7 +11,7 @@ With my new skills, I am determined to implement creative direction and build ph
     <a href="mailto: janayanguiano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   <hr>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jangui92=anuraghazra&layout=compact)](https://github.com/Jangui92/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangui92)](https://github.com/jangui92/github-readme-stats)
 - 💻 Technologies I enjoy using:<div> <br>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
