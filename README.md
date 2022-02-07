@@ -1,6 +1,6 @@
 <h1 align="center">  Hi, I'm Jae :ramen:  </h1>
 
-I am a Software Engineer with full-stack development experience and a background in creative arts through music :guitar:.
+[Janay Anguiano] I am a Software Engineer with full-stack development experience and a background in creative arts through music :guitar:.
 Coding is what helped me pass my intro C.S. course :checkered_flag: . 
 I was intrigued when I found out computers have a language :secret:. 
 With my new skills, I am determined to implement creative direction and build phenomenal functional user-friendly products with an awesome team :rocket:.
